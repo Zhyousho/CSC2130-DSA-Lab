@@ -73,5 +73,3 @@ https://leetcode.com/u/sohammayank/
 The `Report` folder contains the accompanying CSC2130 lab report PDF.
 
 ---
-
-**Note:** The LeetCode files are function submissions, not standalone programs. They are intended to be pasted into the corresponding LeetCode problem editor or compiled with a suitable test harness.
